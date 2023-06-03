@@ -4,3 +4,4 @@ this feature-2 aded
 this feature-3 aded
 some extra 
 added some new text for conflict testing
+new-feature
